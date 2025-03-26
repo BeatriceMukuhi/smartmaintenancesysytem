@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# Smart Maintenance System
 
-A simple Streamlit app template for you to modify!
+A streamlit app deployed to predict if an equipment is maintained smart or not! 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
